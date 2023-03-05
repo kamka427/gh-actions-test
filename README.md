@@ -1,2 +1,2 @@
 # gh-actions-test
- Test for GH Actions befor project use
+Testing https://docs.github.com/en/actions/quickstart
